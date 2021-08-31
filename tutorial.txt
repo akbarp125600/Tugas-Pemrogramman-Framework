@@ -1,0 +1,2 @@
+mengaktifkan django : ...\Env\Scripts\activate.bat -> manage.py runserver
+menonaktifkan django : deactivate
